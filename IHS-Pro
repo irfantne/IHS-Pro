@@ -1,0 +1,19 @@
+IHS-Pro/
+│
+├── pine/
+│   └── IHS_Pro_v1.0.pine
+│
+├── docs/
+│   ├── README.md
+│   ├── CHANGELOG.md
+│   ├── Trading_Playbook.md
+│   └── Roadmap.md
+│
+├── testing/
+│   └── Backtesting_Journal.xlsx
+│
+├── screenshots/
+│
+├── LICENSE
+│
+└── .gitignore
